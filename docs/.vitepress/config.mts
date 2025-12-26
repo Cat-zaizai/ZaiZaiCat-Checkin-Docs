@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/',
+  base: '/ZaiZaiCat-Checkin-Docs/',
   lang: 'zh-CN',
   title: 'ZaiZaiCat Checkin',
   description: '自用每日签到脚本与自动化任务合集文档',
