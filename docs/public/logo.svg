@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="ZaiZaiCat logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f9a6c"/>
+      <stop offset="100%" stop-color="#f0c44b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="54" fill="url(#g)"/>
+  <path d="M30 52 L38 30 L52 46 L68 46 L82 30 L90 52" fill="#123c2c"/>
+  <rect x="30" y="52" width="60" height="42" rx="18" fill="#123c2c"/>
+  <circle cx="48" cy="70" r="4" fill="#f7f6f0"/>
+  <circle cx="72" cy="70" r="4" fill="#f7f6f0"/>
+  <path d="M52 82 Q60 88 68 82" stroke="#f7f6f0" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>

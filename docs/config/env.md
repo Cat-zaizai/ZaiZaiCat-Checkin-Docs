@@ -1,0 +1,78 @@
+# 环境变量
+
+推送模块支持从环境变量读取配置，常用字段如下：
+
+## Bark
+
+- `BARK_PUSH`
+- `BARK_ICON`
+- `BARK_SOUND`
+- `BARK_GROUP`
+- `BARK_LEVEL`
+- `BARK_URL`
+
+## Server酱
+
+- `SCKEY`
+- `SENDKEY`
+
+## CoolPush
+
+- `COOLPUSH_SKEY`
+- `COOLPUSH_QQ`
+- `COOLPUSH_WX`
+- `COOLPUSH_EMAIL`
+
+## Qmsg
+
+- `QMSG_KEY`
+- `QMSG_TYPE`
+
+## Telegram
+
+- `TG_BOT_TOKEN`
+- `TG_USER_ID`
+- `TG_API_HOST`
+- `TG_PROXY`
+
+## 飞书
+
+- `FSKEY`
+
+## 钉钉
+
+- `DINGTALK_ACCESS_TOKEN`
+- `DINGTALK_SECRET`
+
+## 企业微信
+
+- `QYWX_KEY`
+- `QYWX_CORPID`
+- `QYWX_AGENTID`
+- `QYWX_CORPSECRET`
+- `QYWX_TOUSER`
+- `QYWX_MEDIA_ID`
+- `QYWX_ORIGIN`
+
+## PushPlus
+
+- `PUSHPLUS_TOKEN`
+- `PUSHPLUS_TOPIC`
+
+## Gotify
+
+- `GOTIFY_URL`
+- `GOTIFY_TOKEN`
+- `GOTIFY_PRIORITY`
+
+## Ntfy
+
+- `NTFY_URL`
+- `NTFY_TOPIC`
+- `NTFY_PRIORITY`
+
+## PushDeer
+
+- `PUSHDEER_PUSHKEY`
+- `PUSHDEER_URL`
+- `PUSHDEER_TYPE`
